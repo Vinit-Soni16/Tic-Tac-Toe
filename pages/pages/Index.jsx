@@ -143,7 +143,7 @@ export default function Index() {
 
       <footer className="py-6 border-t">
         <div className="container mx-auto text-center text-sm text-muted-foreground">
-          Built with React, Tailwind and GSAP
+          Built with React, Tailwind and GSAP & Developed by Vinit Kumar Soni
         </div>
       </footer>
 
